@@ -1,19 +1,19 @@
 # ⭐ This script is utilizing discord.py-self and OpenAI's API to make AI respond to your private messages! ⭐
-
+#### The !toggle_ai command isn't working until i fix it, so the script is going to respond to your dms until you stop the script
 ## Features: 
     Responds to direct messages with AI-generated text based on user input.
     Caches user messages and periodically sends responses based on collected input.
 
 ## Setup Instructions
 ### Prerequisites
+ #### Python 3.8 or higher
 
-    Python 3.8 or higher
-    Discord API token
-    OpenAI API key
+ #### Discord API token
+
+#### OpenAI API key
 
 ### Installation
-
-    Clone the repository:
+ #### Clone the repository:
     
     1. git clone https://github.com/netnsher/selfai.git
     
